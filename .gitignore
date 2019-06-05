@@ -1,0 +1,10 @@
+# pip
+wordsearch.egg-info/
+
+# pyenv
+.python-version
+
+# pytest
+.pytest_cache
+__pycache__
+
